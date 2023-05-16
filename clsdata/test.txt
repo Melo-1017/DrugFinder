@@ -1,0 +1,2 @@
+One test. 
+Pre-trained embedding features will be generated in this folder.

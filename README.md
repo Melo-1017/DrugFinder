@@ -1,6 +1,6 @@
 # DrugFinder
 
-**Author:** Mu Zhang | Fengqiang Wan 
+**Author:** Mu Zhang | Fengqiang Wan | Taigang Liu
 
 **Notes:** This repository presents a model to identify druggable proteins. The model is implemented in Python and its principles are described in detail in our paper. If you have any questions about its use or understanding, please contact us at this email address: zhang.mu@foxmail.com
 
